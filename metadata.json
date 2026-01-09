@@ -1,0 +1,5 @@
+{
+  "name": "ChefMinds - Daily Meal Scout",
+  "description": "A sophisticated meal suggestion app that uses Gemini AI to turn simple cravings into complete, chef-curated recipe ideas with beautiful imagery.",
+  "requestFramePermissions": []
+}
